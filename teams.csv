@@ -1,0 +1,969 @@
+,Tm,W,L,W-L%,GB,Year,Division
+0,Boston Red Sox,88,74,0.543,--,1990,AL East
+1,Toronto Blue Jays,86,76,0.531,2.0,1990,AL East
+2,Detroit Tigers,79,83,0.488,9.0,1990,AL East
+3,Cleveland Indians,77,85,0.475,11.0,1990,AL East
+4,Baltimore Orioles,76,85,0.472,11.5,1990,AL East
+5,Milwaukee Brewers,74,88,0.457,14.0,1990,AL East
+6,New York Yankees,67,95,0.414,21.0,1990,AL East
+0,Pittsburgh Pirates,95,67,0.586,--,1990,NL East
+1,New York Mets,91,71,0.562,4.0,1990,NL East
+2,Montreal Expos,85,77,0.525,10.0,1990,NL East
+3,Chicago Cubs,77,85,0.475,18.0,1990,NL East
+4,Philadelphia Phillies,77,85,0.475,18.0,1990,NL East
+5,St. Louis Cardinals,70,92,0.432,25.0,1990,NL East
+0,Oakland Athletics,103,59,0.636,--,1990,AL West
+1,Chicago White Sox,94,68,0.58,9.0,1990,AL West
+2,Texas Rangers,83,79,0.512,20.0,1990,AL West
+3,California Angels,80,82,0.494,23.0,1990,AL West
+4,Seattle Mariners,77,85,0.475,26.0,1990,AL West
+5,Kansas City Royals,75,86,0.466,27.5,1990,AL West
+6,Minnesota Twins,74,88,0.457,29.0,1990,AL West
+0,Cincinnati Reds,91,71,0.562,--,1990,NL West
+1,Los Angeles Dodgers,86,76,0.531,5.0,1990,NL West
+2,San Francisco Giants,85,77,0.525,6.0,1990,NL West
+3,Houston Astros,75,87,0.463,16.0,1990,NL West
+4,San Diego Padres,75,87,0.463,16.0,1990,NL West
+5,Atlanta Braves,65,97,0.401,26.0,1990,NL West
+0,Toronto Blue Jays,91,71,0.562,--,1991,AL East
+1,Boston Red Sox,84,78,0.519,7.0,1991,AL East
+2,Detroit Tigers,84,78,0.519,7.0,1991,AL East
+3,Milwaukee Brewers,83,79,0.512,8.0,1991,AL East
+4,New York Yankees,71,91,0.438,20.0,1991,AL East
+5,Baltimore Orioles,67,95,0.414,24.0,1991,AL East
+6,Cleveland Indians,57,105,0.352,34.0,1991,AL East
+0,Pittsburgh Pirates,98,64,0.605,--,1991,NL East
+1,St. Louis Cardinals,84,78,0.519,14.0,1991,NL East
+2,Philadelphia Phillies,78,84,0.481,20.0,1991,NL East
+3,Chicago Cubs,77,83,0.481,20.0,1991,NL East
+4,New York Mets,77,84,0.478,20.5,1991,NL East
+5,Montreal Expos,71,90,0.441,26.5,1991,NL East
+0,Minnesota Twins,95,67,0.586,--,1991,AL West
+1,Chicago White Sox,87,75,0.537,8.0,1991,AL West
+2,Texas Rangers,85,77,0.525,10.0,1991,AL West
+3,Oakland Athletics,84,78,0.519,11.0,1991,AL West
+4,Seattle Mariners,83,79,0.512,12.0,1991,AL West
+5,Kansas City Royals,82,80,0.506,13.0,1991,AL West
+6,California Angels,81,81,0.5,14.0,1991,AL West
+0,Atlanta Braves,94,68,0.58,--,1991,NL West
+1,Los Angeles Dodgers,93,69,0.574,1.0,1991,NL West
+2,San Diego Padres,84,78,0.519,10.0,1991,NL West
+3,San Francisco Giants,75,87,0.463,19.0,1991,NL West
+4,Cincinnati Reds,74,88,0.457,20.0,1991,NL West
+5,Houston Astros,65,97,0.401,29.0,1991,NL West
+0,Toronto Blue Jays,96,66,0.593,--,1992,AL East
+1,Milwaukee Brewers,92,70,0.568,4.0,1992,AL East
+2,Baltimore Orioles,89,73,0.549,7.0,1992,AL East
+3,Cleveland Indians,76,86,0.469,20.0,1992,AL East
+4,New York Yankees,76,86,0.469,20.0,1992,AL East
+5,Detroit Tigers,75,87,0.463,21.0,1992,AL East
+6,Boston Red Sox,73,89,0.451,23.0,1992,AL East
+0,Pittsburgh Pirates,96,66,0.593,--,1992,NL East
+1,Montreal Expos,87,75,0.537,9.0,1992,NL East
+2,St. Louis Cardinals,83,79,0.512,13.0,1992,NL East
+3,Chicago Cubs,78,84,0.481,18.0,1992,NL East
+4,New York Mets,72,90,0.444,24.0,1992,NL East
+5,Philadelphia Phillies,70,92,0.432,26.0,1992,NL East
+0,Oakland Athletics,96,66,0.593,--,1992,AL West
+1,Minnesota Twins,90,72,0.556,6.0,1992,AL West
+2,Chicago White Sox,86,76,0.531,10.0,1992,AL West
+3,Texas Rangers,77,85,0.475,19.0,1992,AL West
+4,California Angels,72,90,0.444,24.0,1992,AL West
+5,Kansas City Royals,72,90,0.444,24.0,1992,AL West
+6,Seattle Mariners,64,98,0.395,32.0,1992,AL West
+0,Atlanta Braves,98,64,0.605,--,1992,NL West
+1,Cincinnati Reds,90,72,0.556,8.0,1992,NL West
+2,San Diego Padres,82,80,0.506,16.0,1992,NL West
+3,Houston Astros,81,81,0.5,17.0,1992,NL West
+4,San Francisco Giants,72,90,0.444,26.0,1992,NL West
+5,Los Angeles Dodgers,63,99,0.389,35.0,1992,NL West
+0,Toronto Blue Jays,95,67,0.586,--,1993,AL East
+1,New York Yankees,88,74,0.543,7.0,1993,AL East
+2,Baltimore Orioles,85,77,0.525,10.0,1993,AL East
+3,Detroit Tigers,85,77,0.525,10.0,1993,AL East
+4,Boston Red Sox,80,82,0.494,15.0,1993,AL East
+5,Cleveland Indians,76,86,0.469,19.0,1993,AL East
+6,Milwaukee Brewers,69,93,0.426,26.0,1993,AL East
+0,Philadelphia Phillies,97,65,0.599,--,1993,NL East
+1,Montreal Expos,94,68,0.58,3.0,1993,NL East
+2,St. Louis Cardinals,87,75,0.537,10.0,1993,NL East
+3,Chicago Cubs,84,78,0.519,13.0,1993,NL East
+4,Pittsburgh Pirates,75,87,0.463,22.0,1993,NL East
+5,Florida Marlins,64,98,0.395,33.0,1993,NL East
+6,New York Mets,59,103,0.364,38.0,1993,NL East
+0,Chicago White Sox,94,68,0.58,--,1993,AL West
+1,Texas Rangers,86,76,0.531,8.0,1993,AL West
+2,Kansas City Royals,84,78,0.519,10.0,1993,AL West
+3,Seattle Mariners,82,80,0.506,12.0,1993,AL West
+4,California Angels,71,91,0.438,23.0,1993,AL West
+5,Minnesota Twins,71,91,0.438,23.0,1993,AL West
+6,Oakland Athletics,68,94,0.42,26.0,1993,AL West
+0,Atlanta Braves,104,58,0.642,--,1993,NL West
+1,San Francisco Giants,103,59,0.636,1.0,1993,NL West
+2,Houston Astros,85,77,0.525,19.0,1993,NL West
+3,Los Angeles Dodgers,81,81,0.5,23.0,1993,NL West
+4,Cincinnati Reds,73,89,0.451,31.0,1993,NL West
+5,Colorado Rockies,67,95,0.414,37.0,1993,NL West
+6,San Diego Padres,61,101,0.377,43.0,1993,NL West
+0,New York Yankees,70,43,0.619,--,1994,AL East
+1,Baltimore Orioles,63,49,0.563,6.5,1994,AL East
+2,Toronto Blue Jays,55,60,0.478,16.0,1994,AL East
+3,Boston Red Sox,54,61,0.47,17.0,1994,AL East
+4,Detroit Tigers,53,62,0.461,18.0,1994,AL East
+0,Montreal Expos,74,40,0.649,--,1994,NL East
+1,Atlanta Braves,68,46,0.596,6.0,1994,NL East
+2,New York Mets,55,58,0.487,18.5,1994,NL East
+3,Philadelphia Phillies,54,61,0.47,20.5,1994,NL East
+4,Florida Marlins,51,64,0.443,23.5,1994,NL East
+0,Texas Rangers,52,62,0.456,--,1994,AL West
+1,Oakland Athletics,51,63,0.447,1.0,1994,AL West
+2,Seattle Mariners,49,63,0.438,2.0,1994,AL West
+3,California Angels,47,68,0.409,5.5,1994,AL West
+0,Los Angeles Dodgers,58,56,0.509,--,1994,NL West
+1,San Francisco Giants,55,60,0.478,3.5,1994,NL West
+2,Colorado Rockies,53,64,0.453,6.5,1994,NL West
+3,San Diego Padres,47,70,0.402,12.5,1994,NL West
+0,Chicago White Sox,67,46,0.593,--,1994,AL Central
+1,Cleveland Indians,66,47,0.584,1.0,1994,AL Central
+2,Kansas City Royals,64,51,0.557,4.0,1994,AL Central
+3,Minnesota Twins,53,60,0.469,14.0,1994,AL Central
+4,Milwaukee Brewers,53,62,0.461,15.0,1994,AL Central
+0,Cincinnati Reds,66,48,0.579,--,1994,NL Central
+1,Houston Astros,66,49,0.574,0.5,1994,NL Central
+2,Pittsburgh Pirates,53,61,0.465,13.0,1994,NL Central
+3,St. Louis Cardinals,53,61,0.465,13.0,1994,NL Central
+4,Chicago Cubs,49,64,0.434,16.5,1994,NL Central
+0,Boston Red Sox,86,58,0.597,--,1995,AL East
+1,New York Yankees,79,65,0.549,7.0,1995,AL East
+2,Baltimore Orioles,71,73,0.493,15.0,1995,AL East
+3,Detroit Tigers,60,84,0.417,26.0,1995,AL East
+4,Toronto Blue Jays,56,88,0.389,30.0,1995,AL East
+0,Atlanta Braves,90,54,0.625,--,1995,NL East
+1,New York Mets,69,75,0.479,21.0,1995,NL East
+2,Philadelphia Phillies,69,75,0.479,21.0,1995,NL East
+3,Florida Marlins,67,76,0.469,22.5,1995,NL East
+4,Montreal Expos,66,78,0.458,24.0,1995,NL East
+0,Seattle Mariners,79,66,0.545,--,1995,AL West
+1,California Angels,78,67,0.538,1.0,1995,AL West
+2,Texas Rangers,74,70,0.514,4.5,1995,AL West
+3,Oakland Athletics,67,77,0.465,11.5,1995,AL West
+0,Los Angeles Dodgers,78,66,0.542,--,1995,NL West
+1,Colorado Rockies,77,67,0.535,1.0,1995,NL West
+2,San Diego Padres,70,74,0.486,8.0,1995,NL West
+3,San Francisco Giants,67,77,0.465,11.0,1995,NL West
+0,Cleveland Indians,100,44,0.694,--,1995,AL Central
+1,Kansas City Royals,70,74,0.486,30.0,1995,AL Central
+2,Chicago White Sox,68,76,0.472,32.0,1995,AL Central
+3,Milwaukee Brewers,65,79,0.451,35.0,1995,AL Central
+4,Minnesota Twins,56,88,0.389,44.0,1995,AL Central
+0,Cincinnati Reds,85,59,0.59,--,1995,NL Central
+1,Houston Astros,76,68,0.528,9.0,1995,NL Central
+2,Chicago Cubs,73,71,0.507,12.0,1995,NL Central
+3,St. Louis Cardinals,62,81,0.434,22.5,1995,NL Central
+4,Pittsburgh Pirates,58,86,0.403,27.0,1995,NL Central
+0,New York Yankees,92,70,0.568,--,1996,AL East
+1,Baltimore Orioles,88,74,0.543,4.0,1996,AL East
+2,Boston Red Sox,85,77,0.525,7.0,1996,AL East
+3,Toronto Blue Jays,74,88,0.457,18.0,1996,AL East
+4,Detroit Tigers,53,109,0.327,39.0,1996,AL East
+0,Atlanta Braves,96,66,0.593,--,1996,NL East
+1,Montreal Expos,88,74,0.543,8.0,1996,NL East
+2,Florida Marlins,80,82,0.494,16.0,1996,NL East
+3,New York Mets,71,91,0.438,25.0,1996,NL East
+4,Philadelphia Phillies,67,95,0.414,29.0,1996,NL East
+0,Texas Rangers,90,72,0.556,--,1996,AL West
+1,Seattle Mariners,85,76,0.528,4.5,1996,AL West
+2,Oakland Athletics,78,84,0.481,12.0,1996,AL West
+3,California Angels,70,91,0.435,19.5,1996,AL West
+0,San Diego Padres,91,71,0.562,--,1996,NL West
+1,Los Angeles Dodgers,90,72,0.556,1.0,1996,NL West
+2,Colorado Rockies,83,79,0.512,8.0,1996,NL West
+3,San Francisco Giants,68,94,0.42,23.0,1996,NL West
+0,Cleveland Indians,99,62,0.615,--,1996,AL Central
+1,Chicago White Sox,85,77,0.525,14.5,1996,AL Central
+2,Milwaukee Brewers,80,82,0.494,19.5,1996,AL Central
+3,Minnesota Twins,78,84,0.481,21.5,1996,AL Central
+4,Kansas City Royals,75,86,0.466,24.0,1996,AL Central
+0,St. Louis Cardinals,88,74,0.543,--,1996,NL Central
+1,Houston Astros,82,80,0.506,6.0,1996,NL Central
+2,Cincinnati Reds,81,81,0.5,7.0,1996,NL Central
+3,Chicago Cubs,76,86,0.469,12.0,1996,NL Central
+4,Pittsburgh Pirates,73,89,0.451,15.0,1996,NL Central
+0,Baltimore Orioles,98,64,0.605,--,1997,AL East
+1,New York Yankees,96,66,0.593,2.0,1997,AL East
+2,Detroit Tigers,79,83,0.488,19.0,1997,AL East
+3,Boston Red Sox,78,84,0.481,20.0,1997,AL East
+4,Toronto Blue Jays,76,86,0.469,22.0,1997,AL East
+0,Atlanta Braves,101,61,0.623,--,1997,NL East
+1,Florida Marlins,92,70,0.568,9.0,1997,NL East
+2,New York Mets,88,74,0.543,13.0,1997,NL East
+3,Montreal Expos,78,84,0.481,23.0,1997,NL East
+4,Philadelphia Phillies,68,94,0.42,33.0,1997,NL East
+0,Seattle Mariners,90,72,0.556,--,1997,AL West
+1,Anaheim Angels,84,78,0.519,6.0,1997,AL West
+2,Texas Rangers,77,85,0.475,13.0,1997,AL West
+3,Oakland Athletics,65,97,0.401,25.0,1997,AL West
+0,San Francisco Giants,90,72,0.556,--,1997,NL West
+1,Los Angeles Dodgers,88,74,0.543,2.0,1997,NL West
+2,Colorado Rockies,83,79,0.512,7.0,1997,NL West
+3,San Diego Padres,76,86,0.469,14.0,1997,NL West
+0,Cleveland Indians,86,75,0.534,--,1997,AL Central
+1,Chicago White Sox,80,81,0.497,6.0,1997,AL Central
+2,Milwaukee Brewers,78,83,0.484,8.0,1997,AL Central
+3,Minnesota Twins,68,94,0.42,18.5,1997,AL Central
+4,Kansas City Royals,67,94,0.416,19.0,1997,AL Central
+0,Houston Astros,84,78,0.519,--,1997,NL Central
+1,Pittsburgh Pirates,79,83,0.488,5.0,1997,NL Central
+2,Cincinnati Reds,76,86,0.469,8.0,1997,NL Central
+3,St. Louis Cardinals,73,89,0.451,11.0,1997,NL Central
+4,Chicago Cubs,68,94,0.42,16.0,1997,NL Central
+0,New York Yankees,114,48,0.704,--,1998,AL East
+1,Boston Red Sox,92,70,0.568,22.0,1998,AL East
+2,Toronto Blue Jays,88,74,0.543,26.0,1998,AL East
+3,Baltimore Orioles,79,83,0.488,35.0,1998,AL East
+4,Tampa Bay Devil Rays,63,99,0.389,51.0,1998,AL East
+0,Atlanta Braves,106,56,0.654,--,1998,NL East
+1,New York Mets,88,74,0.543,18.0,1998,NL East
+2,Philadelphia Phillies,75,87,0.463,31.0,1998,NL East
+3,Montreal Expos,65,97,0.401,41.0,1998,NL East
+4,Florida Marlins,54,108,0.333,52.0,1998,NL East
+0,Texas Rangers,88,74,0.543,--,1998,AL West
+1,Anaheim Angels,85,77,0.525,3.0,1998,AL West
+2,Seattle Mariners,76,85,0.472,11.5,1998,AL West
+3,Oakland Athletics,74,88,0.457,14.0,1998,AL West
+0,San Diego Padres,98,64,0.605,--,1998,NL West
+1,San Francisco Giants,89,74,0.546,9.5,1998,NL West
+2,Los Angeles Dodgers,83,79,0.512,15.0,1998,NL West
+3,Colorado Rockies,77,85,0.475,21.0,1998,NL West
+4,Arizona Diamondbacks,65,97,0.401,33.0,1998,NL West
+0,Cleveland Indians,89,73,0.549,--,1998,AL Central
+1,Chicago White Sox,80,82,0.494,9.0,1998,AL Central
+2,Kansas City Royals,72,89,0.447,16.5,1998,AL Central
+3,Minnesota Twins,70,92,0.432,19.0,1998,AL Central
+4,Detroit Tigers,65,97,0.401,24.0,1998,AL Central
+0,Houston Astros,102,60,0.63,--,1998,NL Central
+1,Chicago Cubs,90,73,0.552,12.5,1998,NL Central
+2,St. Louis Cardinals,83,79,0.512,19.0,1998,NL Central
+3,Cincinnati Reds,77,85,0.475,25.0,1998,NL Central
+4,Milwaukee Brewers,74,88,0.457,28.0,1998,NL Central
+5,Pittsburgh Pirates,69,93,0.426,33.0,1998,NL Central
+0,New York Yankees,98,64,0.605,--,1999,AL East
+1,Boston Red Sox,94,68,0.58,4.0,1999,AL East
+2,Toronto Blue Jays,84,78,0.519,14.0,1999,AL East
+3,Baltimore Orioles,78,84,0.481,20.0,1999,AL East
+4,Tampa Bay Devil Rays,69,93,0.426,29.0,1999,AL East
+0,Atlanta Braves,103,59,0.636,--,1999,NL East
+1,New York Mets,97,66,0.595,6.5,1999,NL East
+2,Philadelphia Phillies,77,85,0.475,26.0,1999,NL East
+3,Montreal Expos,68,94,0.42,35.0,1999,NL East
+4,Florida Marlins,64,98,0.395,39.0,1999,NL East
+0,Texas Rangers,95,67,0.586,--,1999,AL West
+1,Oakland Athletics,87,75,0.537,8.0,1999,AL West
+2,Seattle Mariners,79,83,0.488,16.0,1999,AL West
+3,Anaheim Angels,70,92,0.432,25.0,1999,AL West
+0,Arizona Diamondbacks,100,62,0.617,--,1999,NL West
+1,San Francisco Giants,86,76,0.531,14.0,1999,NL West
+2,Los Angeles Dodgers,77,85,0.475,23.0,1999,NL West
+3,San Diego Padres,74,88,0.457,26.0,1999,NL West
+4,Colorado Rockies,72,90,0.444,28.0,1999,NL West
+0,Cleveland Indians,97,65,0.599,--,1999,AL Central
+1,Chicago White Sox,75,86,0.466,21.5,1999,AL Central
+2,Detroit Tigers,69,92,0.429,27.5,1999,AL Central
+3,Kansas City Royals,64,97,0.398,32.5,1999,AL Central
+4,Minnesota Twins,63,97,0.394,33.0,1999,AL Central
+0,Houston Astros,97,65,0.599,--,1999,NL Central
+1,Cincinnati Reds,96,67,0.589,1.5,1999,NL Central
+2,Pittsburgh Pirates,78,83,0.484,18.5,1999,NL Central
+3,St. Louis Cardinals,75,86,0.466,21.5,1999,NL Central
+4,Milwaukee Brewers,74,87,0.46,22.5,1999,NL Central
+5,Chicago Cubs,67,95,0.414,30.0,1999,NL Central
+0,New York Yankees,87,74,0.54,--,2000,AL East
+1,Boston Red Sox,85,77,0.525,2.5,2000,AL East
+2,Toronto Blue Jays,83,79,0.512,4.5,2000,AL East
+3,Baltimore Orioles,74,88,0.457,13.5,2000,AL East
+4,Tampa Bay Devil Rays,69,92,0.429,18.0,2000,AL East
+0,Atlanta Braves,95,67,0.586,--,2000,NL East
+1,New York Mets,94,68,0.58,1.0,2000,NL East
+2,Florida Marlins,79,82,0.491,15.5,2000,NL East
+3,Montreal Expos,67,95,0.414,28.0,2000,NL East
+4,Philadelphia Phillies,65,97,0.401,30.0,2000,NL East
+0,Oakland Athletics,91,70,0.565,--,2000,AL West
+1,Seattle Mariners,91,71,0.562,0.5,2000,AL West
+2,Anaheim Angels,82,80,0.506,9.5,2000,AL West
+3,Texas Rangers,71,91,0.438,20.5,2000,AL West
+0,San Francisco Giants,97,65,0.599,--,2000,NL West
+1,Los Angeles Dodgers,86,76,0.531,11.0,2000,NL West
+2,Arizona Diamondbacks,85,77,0.525,12.0,2000,NL West
+3,Colorado Rockies,82,80,0.506,15.0,2000,NL West
+4,San Diego Padres,76,86,0.469,21.0,2000,NL West
+0,Chicago White Sox,95,67,0.586,--,2000,AL Central
+1,Cleveland Indians,90,72,0.556,5.0,2000,AL Central
+2,Detroit Tigers,79,83,0.488,16.0,2000,AL Central
+3,Kansas City Royals,77,85,0.475,18.0,2000,AL Central
+4,Minnesota Twins,69,93,0.426,26.0,2000,AL Central
+0,St. Louis Cardinals,95,67,0.586,--,2000,NL Central
+1,Cincinnati Reds,85,77,0.525,10.0,2000,NL Central
+2,Milwaukee Brewers,73,89,0.451,22.0,2000,NL Central
+3,Houston Astros,72,90,0.444,23.0,2000,NL Central
+4,Pittsburgh Pirates,69,93,0.426,26.0,2000,NL Central
+5,Chicago Cubs,65,97,0.401,30.0,2000,NL Central
+0,New York Yankees,95,65,0.594,--,2001,AL East
+1,Boston Red Sox,82,79,0.509,13.5,2001,AL East
+2,Toronto Blue Jays,80,82,0.494,16.0,2001,AL East
+3,Baltimore Orioles,63,98,0.391,32.5,2001,AL East
+4,Tampa Bay Devil Rays,62,100,0.383,34.0,2001,AL East
+0,Atlanta Braves,88,74,0.543,--,2001,NL East
+1,Philadelphia Phillies,86,76,0.531,2.0,2001,NL East
+2,New York Mets,82,80,0.506,6.0,2001,NL East
+3,Florida Marlins,76,86,0.469,12.0,2001,NL East
+4,Montreal Expos,68,94,0.42,20.0,2001,NL East
+0,Seattle Mariners,116,46,0.716,--,2001,AL West
+1,Oakland Athletics,102,60,0.63,14.0,2001,AL West
+2,Anaheim Angels,75,87,0.463,41.0,2001,AL West
+3,Texas Rangers,73,89,0.451,43.0,2001,AL West
+0,Arizona Diamondbacks,92,70,0.568,--,2001,NL West
+1,San Francisco Giants,90,72,0.556,2.0,2001,NL West
+2,Los Angeles Dodgers,86,76,0.531,6.0,2001,NL West
+3,San Diego Padres,79,83,0.488,13.0,2001,NL West
+4,Colorado Rockies,73,89,0.451,19.0,2001,NL West
+0,Cleveland Indians,91,71,0.562,--,2001,AL Central
+1,Minnesota Twins,85,77,0.525,6.0,2001,AL Central
+2,Chicago White Sox,83,79,0.512,8.0,2001,AL Central
+3,Detroit Tigers,66,96,0.407,25.0,2001,AL Central
+4,Kansas City Royals,65,97,0.401,26.0,2001,AL Central
+0,Houston Astros,93,69,0.574,--,2001,NL Central
+1,St. Louis Cardinals,93,69,0.574,--,2001,NL Central
+2,Chicago Cubs,88,74,0.543,5.0,2001,NL Central
+3,Milwaukee Brewers,68,94,0.42,25.0,2001,NL Central
+4,Cincinnati Reds,66,96,0.407,27.0,2001,NL Central
+5,Pittsburgh Pirates,62,100,0.383,31.0,2001,NL Central
+0,New York Yankees,103,58,0.64,--,2002,AL East
+1,Boston Red Sox,93,69,0.574,10.5,2002,AL East
+2,Toronto Blue Jays,78,84,0.481,25.5,2002,AL East
+3,Baltimore Orioles,67,95,0.414,36.5,2002,AL East
+4,Tampa Bay Devil Rays,55,106,0.342,48.0,2002,AL East
+0,Atlanta Braves,101,59,0.631,--,2002,NL East
+1,Montreal Expos,83,79,0.512,19.0,2002,NL East
+2,Philadelphia Phillies,80,81,0.497,21.5,2002,NL East
+3,Florida Marlins,79,83,0.488,23.0,2002,NL East
+4,New York Mets,75,86,0.466,26.5,2002,NL East
+0,Oakland Athletics,103,59,0.636,--,2002,AL West
+1,Anaheim Angels,99,63,0.611,4.0,2002,AL West
+2,Seattle Mariners,93,69,0.574,10.0,2002,AL West
+3,Texas Rangers,72,90,0.444,31.0,2002,AL West
+0,Arizona Diamondbacks,98,64,0.605,--,2002,NL West
+1,San Francisco Giants,95,66,0.59,2.5,2002,NL West
+2,Los Angeles Dodgers,92,70,0.568,6.0,2002,NL West
+3,Colorado Rockies,73,89,0.451,25.0,2002,NL West
+4,San Diego Padres,66,96,0.407,32.0,2002,NL West
+0,Minnesota Twins,94,67,0.584,--,2002,AL Central
+1,Chicago White Sox,81,81,0.5,13.5,2002,AL Central
+2,Cleveland Indians,74,88,0.457,20.5,2002,AL Central
+3,Kansas City Royals,62,100,0.383,32.5,2002,AL Central
+4,Detroit Tigers,55,106,0.342,39.0,2002,AL Central
+0,St. Louis Cardinals,97,65,0.599,--,2002,NL Central
+1,Houston Astros,84,78,0.519,13.0,2002,NL Central
+2,Cincinnati Reds,78,84,0.481,19.0,2002,NL Central
+3,Pittsburgh Pirates,72,89,0.447,24.5,2002,NL Central
+4,Chicago Cubs,67,95,0.414,30.0,2002,NL Central
+5,Milwaukee Brewers,56,106,0.346,41.0,2002,NL Central
+0,New York Yankees,101,61,0.623,--,2003,AL East
+1,Boston Red Sox,95,67,0.586,6.0,2003,AL East
+2,Toronto Blue Jays,86,76,0.531,15.0,2003,AL East
+3,Baltimore Orioles,71,91,0.438,30.0,2003,AL East
+4,Tampa Bay Devil Rays,63,99,0.389,38.0,2003,AL East
+0,Atlanta Braves,101,61,0.623,--,2003,NL East
+1,Florida Marlins,91,71,0.562,10.0,2003,NL East
+2,Philadelphia Phillies,86,76,0.531,15.0,2003,NL East
+3,Montreal Expos,83,79,0.512,18.0,2003,NL East
+4,New York Mets,66,95,0.41,34.5,2003,NL East
+0,Oakland Athletics,96,66,0.593,--,2003,AL West
+1,Seattle Mariners,93,69,0.574,3.0,2003,AL West
+2,Anaheim Angels,77,85,0.475,19.0,2003,AL West
+3,Texas Rangers,71,91,0.438,25.0,2003,AL West
+0,San Francisco Giants,100,61,0.621,--,2003,NL West
+1,Los Angeles Dodgers,85,77,0.525,15.5,2003,NL West
+2,Arizona Diamondbacks,84,78,0.519,16.5,2003,NL West
+3,Colorado Rockies,74,88,0.457,26.5,2003,NL West
+4,San Diego Padres,64,98,0.395,36.5,2003,NL West
+0,Minnesota Twins,90,72,0.556,--,2003,AL Central
+1,Chicago White Sox,86,76,0.531,4.0,2003,AL Central
+2,Kansas City Royals,83,79,0.512,7.0,2003,AL Central
+3,Cleveland Indians,68,94,0.42,22.0,2003,AL Central
+4,Detroit Tigers,43,119,0.265,47.0,2003,AL Central
+0,Chicago Cubs,88,74,0.543,--,2003,NL Central
+1,Houston Astros,87,75,0.537,1.0,2003,NL Central
+2,St. Louis Cardinals,85,77,0.525,3.0,2003,NL Central
+3,Pittsburgh Pirates,75,87,0.463,13.0,2003,NL Central
+4,Cincinnati Reds,69,93,0.426,19.0,2003,NL Central
+5,Milwaukee Brewers,68,94,0.42,20.0,2003,NL Central
+0,New York Yankees,101,61,0.623,--,2004,AL East
+1,Boston Red Sox,98,64,0.605,3.0,2004,AL East
+2,Baltimore Orioles,78,84,0.481,23.0,2004,AL East
+3,Tampa Bay Devil Rays,70,91,0.435,30.5,2004,AL East
+4,Toronto Blue Jays,67,94,0.416,33.5,2004,AL East
+0,Atlanta Braves,96,66,0.593,--,2004,NL East
+1,Philadelphia Phillies,86,76,0.531,10.0,2004,NL East
+2,Florida Marlins,83,79,0.512,13.0,2004,NL East
+3,New York Mets,71,91,0.438,25.0,2004,NL East
+4,Montreal Expos,67,95,0.414,29.0,2004,NL East
+0,Anaheim Angels,92,70,0.568,--,2004,AL West
+1,Oakland Athletics,91,71,0.562,1.0,2004,AL West
+2,Texas Rangers,89,73,0.549,3.0,2004,AL West
+3,Seattle Mariners,63,99,0.389,29.0,2004,AL West
+0,Los Angeles Dodgers,93,69,0.574,--,2004,NL West
+1,San Francisco Giants,91,71,0.562,2.0,2004,NL West
+2,San Diego Padres,87,75,0.537,6.0,2004,NL West
+3,Colorado Rockies,68,94,0.42,25.0,2004,NL West
+4,Arizona Diamondbacks,51,111,0.315,42.0,2004,NL West
+0,Minnesota Twins,92,70,0.568,--,2004,AL Central
+1,Chicago White Sox,83,79,0.512,9.0,2004,AL Central
+2,Cleveland Indians,80,82,0.494,12.0,2004,AL Central
+3,Detroit Tigers,72,90,0.444,20.0,2004,AL Central
+4,Kansas City Royals,58,104,0.358,34.0,2004,AL Central
+0,St. Louis Cardinals,105,57,0.648,--,2004,NL Central
+1,Houston Astros,92,70,0.568,13.0,2004,NL Central
+2,Chicago Cubs,89,73,0.549,16.0,2004,NL Central
+3,Cincinnati Reds,76,86,0.469,29.0,2004,NL Central
+4,Pittsburgh Pirates,72,89,0.447,32.5,2004,NL Central
+5,Milwaukee Brewers,67,94,0.416,37.5,2004,NL Central
+0,New York Yankees,95,67,0.586,--,2005,AL East
+1,Boston Red Sox,95,67,0.586,--,2005,AL East
+2,Toronto Blue Jays,80,82,0.494,15.0,2005,AL East
+3,Baltimore Orioles,74,88,0.457,21.0,2005,AL East
+4,Tampa Bay Devil Rays,67,95,0.414,28.0,2005,AL East
+0,Atlanta Braves,90,72,0.556,--,2005,NL East
+1,Philadelphia Phillies,88,74,0.543,2.0,2005,NL East
+2,Florida Marlins,83,79,0.512,7.0,2005,NL East
+3,New York Mets,83,79,0.512,7.0,2005,NL East
+4,Washington Nationals,81,81,0.5,9.0,2005,NL East
+0,Los Angeles Angels of Anaheim,95,67,0.586,--,2005,AL West
+1,Oakland Athletics,88,74,0.543,7.0,2005,AL West
+2,Texas Rangers,79,83,0.488,16.0,2005,AL West
+3,Seattle Mariners,69,93,0.426,26.0,2005,AL West
+0,San Diego Padres,82,80,0.506,--,2005,NL West
+1,Arizona Diamondbacks,77,85,0.475,5.0,2005,NL West
+2,San Francisco Giants,75,87,0.463,7.0,2005,NL West
+3,Los Angeles Dodgers,71,91,0.438,11.0,2005,NL West
+4,Colorado Rockies,67,95,0.414,15.0,2005,NL West
+0,Chicago White Sox,99,63,0.611,--,2005,AL Central
+1,Cleveland Indians,93,69,0.574,6.0,2005,AL Central
+2,Minnesota Twins,83,79,0.512,16.0,2005,AL Central
+3,Detroit Tigers,71,91,0.438,28.0,2005,AL Central
+4,Kansas City Royals,56,106,0.346,43.0,2005,AL Central
+0,St. Louis Cardinals,100,62,0.617,--,2005,NL Central
+1,Houston Astros,89,73,0.549,11.0,2005,NL Central
+2,Milwaukee Brewers,81,81,0.5,19.0,2005,NL Central
+3,Chicago Cubs,79,83,0.488,21.0,2005,NL Central
+4,Cincinnati Reds,73,89,0.451,27.0,2005,NL Central
+5,Pittsburgh Pirates,67,95,0.414,33.0,2005,NL Central
+0,New York Yankees,97,65,0.599,--,2006,AL East
+1,Toronto Blue Jays,87,75,0.537,10.0,2006,AL East
+2,Boston Red Sox,86,76,0.531,11.0,2006,AL East
+3,Baltimore Orioles,70,92,0.432,27.0,2006,AL East
+4,Tampa Bay Devil Rays,61,101,0.377,36.0,2006,AL East
+0,New York Mets,97,65,0.599,--,2006,NL East
+1,Philadelphia Phillies,85,77,0.525,12.0,2006,NL East
+2,Atlanta Braves,79,83,0.488,18.0,2006,NL East
+3,Florida Marlins,78,84,0.481,19.0,2006,NL East
+4,Washington Nationals,71,91,0.438,26.0,2006,NL East
+0,Oakland Athletics,93,69,0.574,--,2006,AL West
+1,Los Angeles Angels of Anaheim,89,73,0.549,4.0,2006,AL West
+2,Texas Rangers,80,82,0.494,13.0,2006,AL West
+3,Seattle Mariners,78,84,0.481,15.0,2006,AL West
+0,San Diego Padres,88,74,0.543,--,2006,NL West
+1,Los Angeles Dodgers,88,74,0.543,--,2006,NL West
+2,San Francisco Giants,76,85,0.472,11.5,2006,NL West
+3,Arizona Diamondbacks,76,86,0.469,12.0,2006,NL West
+4,Colorado Rockies,76,86,0.469,12.0,2006,NL West
+0,Minnesota Twins,96,66,0.593,--,2006,AL Central
+1,Detroit Tigers,95,67,0.586,1.0,2006,AL Central
+2,Chicago White Sox,90,72,0.556,6.0,2006,AL Central
+3,Cleveland Indians,78,84,0.481,18.0,2006,AL Central
+4,Kansas City Royals,62,100,0.383,34.0,2006,AL Central
+0,St. Louis Cardinals,83,78,0.516,--,2006,NL Central
+1,Houston Astros,82,80,0.506,1.5,2006,NL Central
+2,Cincinnati Reds,80,82,0.494,3.5,2006,NL Central
+3,Milwaukee Brewers,75,87,0.463,8.5,2006,NL Central
+4,Pittsburgh Pirates,67,95,0.414,16.5,2006,NL Central
+5,Chicago Cubs,66,96,0.407,17.5,2006,NL Central
+0,Boston Red Sox,96,66,0.593,--,2007,AL East
+1,New York Yankees,94,68,0.58,2.0,2007,AL East
+2,Toronto Blue Jays,83,79,0.512,13.0,2007,AL East
+3,Baltimore Orioles,69,93,0.426,27.0,2007,AL East
+4,Tampa Bay Devil Rays,66,96,0.407,30.0,2007,AL East
+0,Philadelphia Phillies,89,73,0.549,--,2007,NL East
+1,New York Mets,88,74,0.543,1.0,2007,NL East
+2,Atlanta Braves,84,78,0.519,5.0,2007,NL East
+3,Washington Nationals,73,89,0.451,16.0,2007,NL East
+4,Florida Marlins,71,91,0.438,18.0,2007,NL East
+0,Los Angeles Angels of Anaheim,94,68,0.58,--,2007,AL West
+1,Seattle Mariners,88,74,0.543,6.0,2007,AL West
+2,Oakland Athletics,76,86,0.469,18.0,2007,AL West
+3,Texas Rangers,75,87,0.463,19.0,2007,AL West
+0,Arizona Diamondbacks,90,72,0.556,--,2007,NL West
+1,Colorado Rockies,90,73,0.552,0.5,2007,NL West
+2,San Diego Padres,89,74,0.546,1.5,2007,NL West
+3,Los Angeles Dodgers,82,80,0.506,8.0,2007,NL West
+4,San Francisco Giants,71,91,0.438,19.0,2007,NL West
+0,Cleveland Indians,96,66,0.593,--,2007,AL Central
+1,Detroit Tigers,88,74,0.543,8.0,2007,AL Central
+2,Minnesota Twins,79,83,0.488,17.0,2007,AL Central
+3,Chicago White Sox,72,90,0.444,24.0,2007,AL Central
+4,Kansas City Royals,69,93,0.426,27.0,2007,AL Central
+0,Chicago Cubs,85,77,0.525,--,2007,NL Central
+1,Milwaukee Brewers,83,79,0.512,2.0,2007,NL Central
+2,St. Louis Cardinals,78,84,0.481,7.0,2007,NL Central
+3,Houston Astros,73,89,0.451,12.0,2007,NL Central
+4,Cincinnati Reds,72,90,0.444,13.0,2007,NL Central
+5,Pittsburgh Pirates,68,94,0.42,17.0,2007,NL Central
+0,Tampa Bay Rays,97,65,0.599,--,2008,AL East
+1,Boston Red Sox,95,67,0.586,2.0,2008,AL East
+2,New York Yankees,89,73,0.549,8.0,2008,AL East
+3,Toronto Blue Jays,86,76,0.531,11.0,2008,AL East
+4,Baltimore Orioles,68,93,0.422,28.5,2008,AL East
+0,Philadelphia Phillies,92,70,0.568,--,2008,NL East
+1,New York Mets,89,73,0.549,3.0,2008,NL East
+2,Florida Marlins,84,77,0.522,7.5,2008,NL East
+3,Atlanta Braves,72,90,0.444,20.0,2008,NL East
+4,Washington Nationals,59,102,0.366,32.5,2008,NL East
+0,Los Angeles Angels of Anaheim,100,62,0.617,--,2008,AL West
+1,Texas Rangers,79,83,0.488,21.0,2008,AL West
+2,Oakland Athletics,75,86,0.466,24.5,2008,AL West
+3,Seattle Mariners,61,101,0.377,39.0,2008,AL West
+0,Los Angeles Dodgers,84,78,0.519,--,2008,NL West
+1,Arizona Diamondbacks,82,80,0.506,2.0,2008,NL West
+2,Colorado Rockies,74,88,0.457,10.0,2008,NL West
+3,San Francisco Giants,72,90,0.444,12.0,2008,NL West
+4,San Diego Padres,63,99,0.389,21.0,2008,NL West
+0,Chicago White Sox,89,74,0.546,--,2008,AL Central
+1,Minnesota Twins,88,75,0.54,1.0,2008,AL Central
+2,Cleveland Indians,81,81,0.5,7.5,2008,AL Central
+3,Kansas City Royals,75,87,0.463,13.5,2008,AL Central
+4,Detroit Tigers,74,88,0.457,14.5,2008,AL Central
+0,Chicago Cubs,97,64,0.602,--,2008,NL Central
+1,Milwaukee Brewers,90,72,0.556,7.5,2008,NL Central
+2,Houston Astros,86,75,0.534,11.0,2008,NL Central
+3,St. Louis Cardinals,86,76,0.531,11.5,2008,NL Central
+4,Cincinnati Reds,74,88,0.457,23.5,2008,NL Central
+5,Pittsburgh Pirates,67,95,0.414,30.5,2008,NL Central
+0,New York Yankees,103,59,0.636,--,2009,AL East
+1,Boston Red Sox,95,67,0.586,8.0,2009,AL East
+2,Tampa Bay Rays,84,78,0.519,19.0,2009,AL East
+3,Toronto Blue Jays,75,87,0.463,28.0,2009,AL East
+4,Baltimore Orioles,64,98,0.395,39.0,2009,AL East
+0,Philadelphia Phillies,93,69,0.574,--,2009,NL East
+1,Florida Marlins,87,75,0.537,6.0,2009,NL East
+2,Atlanta Braves,86,76,0.531,7.0,2009,NL East
+3,New York Mets,70,92,0.432,23.0,2009,NL East
+4,Washington Nationals,59,103,0.364,34.0,2009,NL East
+0,Los Angeles Angels of Anaheim,97,65,0.599,--,2009,AL West
+1,Texas Rangers,87,75,0.537,10.0,2009,AL West
+2,Seattle Mariners,85,77,0.525,12.0,2009,AL West
+3,Oakland Athletics,75,87,0.463,22.0,2009,AL West
+0,Los Angeles Dodgers,95,67,0.586,--,2009,NL West
+1,Colorado Rockies,92,70,0.568,3.0,2009,NL West
+2,San Francisco Giants,88,74,0.543,7.0,2009,NL West
+3,San Diego Padres,75,87,0.463,20.0,2009,NL West
+4,Arizona Diamondbacks,70,92,0.432,25.0,2009,NL West
+0,Minnesota Twins,87,76,0.534,--,2009,AL Central
+1,Detroit Tigers,86,77,0.528,1.0,2009,AL Central
+2,Chicago White Sox,79,83,0.488,7.5,2009,AL Central
+3,Cleveland Indians,65,97,0.401,21.5,2009,AL Central
+4,Kansas City Royals,65,97,0.401,21.5,2009,AL Central
+0,St. Louis Cardinals,91,71,0.562,--,2009,NL Central
+1,Chicago Cubs,83,78,0.516,7.5,2009,NL Central
+2,Milwaukee Brewers,80,82,0.494,11.0,2009,NL Central
+3,Cincinnati Reds,78,84,0.481,13.0,2009,NL Central
+4,Houston Astros,74,88,0.457,17.0,2009,NL Central
+5,Pittsburgh Pirates,62,99,0.385,28.5,2009,NL Central
+0,Tampa Bay Rays,96,66,0.593,--,2010,AL East
+1,New York Yankees,95,67,0.586,1.0,2010,AL East
+2,Boston Red Sox,89,73,0.549,7.0,2010,AL East
+3,Toronto Blue Jays,85,77,0.525,11.0,2010,AL East
+4,Baltimore Orioles,66,96,0.407,30.0,2010,AL East
+0,Philadelphia Phillies,97,65,0.599,--,2010,NL East
+1,Atlanta Braves,91,71,0.562,6.0,2010,NL East
+2,Florida Marlins,80,82,0.494,17.0,2010,NL East
+3,New York Mets,79,83,0.488,18.0,2010,NL East
+4,Washington Nationals,69,93,0.426,28.0,2010,NL East
+0,Texas Rangers,90,72,0.556,--,2010,AL West
+1,Oakland Athletics,81,81,0.5,9.0,2010,AL West
+2,Los Angeles Angels of Anaheim,80,82,0.494,10.0,2010,AL West
+3,Seattle Mariners,61,101,0.377,29.0,2010,AL West
+0,San Francisco Giants,92,70,0.568,--,2010,NL West
+1,San Diego Padres,90,72,0.556,2.0,2010,NL West
+2,Colorado Rockies,83,79,0.512,9.0,2010,NL West
+3,Los Angeles Dodgers,80,82,0.494,12.0,2010,NL West
+4,Arizona Diamondbacks,65,97,0.401,27.0,2010,NL West
+0,Minnesota Twins,94,68,0.58,--,2010,AL Central
+1,Chicago White Sox,88,74,0.543,6.0,2010,AL Central
+2,Detroit Tigers,81,81,0.5,13.0,2010,AL Central
+3,Cleveland Indians,69,93,0.426,25.0,2010,AL Central
+4,Kansas City Royals,67,95,0.414,27.0,2010,AL Central
+0,Cincinnati Reds,91,71,0.562,--,2010,NL Central
+1,St. Louis Cardinals,86,76,0.531,5.0,2010,NL Central
+2,Milwaukee Brewers,77,85,0.475,14.0,2010,NL Central
+3,Houston Astros,76,86,0.469,15.0,2010,NL Central
+4,Chicago Cubs,75,87,0.463,16.0,2010,NL Central
+5,Pittsburgh Pirates,57,105,0.352,34.0,2010,NL Central
+0,New York Yankees,97,65,0.599,--,2011,AL East
+1,Tampa Bay Rays,91,71,0.562,6.0,2011,AL East
+2,Boston Red Sox,90,72,0.556,7.0,2011,AL East
+3,Toronto Blue Jays,81,81,0.5,16.0,2011,AL East
+4,Baltimore Orioles,69,93,0.426,28.0,2011,AL East
+0,Philadelphia Phillies,102,60,0.63,--,2011,NL East
+1,Atlanta Braves,89,73,0.549,13.0,2011,NL East
+2,Washington Nationals,80,81,0.497,21.5,2011,NL East
+3,New York Mets,77,85,0.475,25.0,2011,NL East
+4,Florida Marlins,72,90,0.444,30.0,2011,NL East
+0,Texas Rangers,96,66,0.593,--,2011,AL West
+1,Los Angeles Angels of Anaheim,86,76,0.531,10.0,2011,AL West
+2,Oakland Athletics,74,88,0.457,22.0,2011,AL West
+3,Seattle Mariners,67,95,0.414,29.0,2011,AL West
+0,Arizona Diamondbacks,94,68,0.58,--,2011,NL West
+1,San Francisco Giants,86,76,0.531,8.0,2011,NL West
+2,Los Angeles Dodgers,82,79,0.509,11.5,2011,NL West
+3,Colorado Rockies,73,89,0.451,21.0,2011,NL West
+4,San Diego Padres,71,91,0.438,23.0,2011,NL West
+0,Detroit Tigers,95,67,0.586,--,2011,AL Central
+1,Cleveland Indians,80,82,0.494,15.0,2011,AL Central
+2,Chicago White Sox,79,83,0.488,16.0,2011,AL Central
+3,Kansas City Royals,71,91,0.438,24.0,2011,AL Central
+4,Minnesota Twins,63,99,0.389,32.0,2011,AL Central
+0,Milwaukee Brewers,96,66,0.593,--,2011,NL Central
+1,St. Louis Cardinals,90,72,0.556,6.0,2011,NL Central
+2,Cincinnati Reds,79,83,0.488,17.0,2011,NL Central
+3,Pittsburgh Pirates,72,90,0.444,24.0,2011,NL Central
+4,Chicago Cubs,71,91,0.438,25.0,2011,NL Central
+5,Houston Astros,56,106,0.346,40.0,2011,NL Central
+0,New York Yankees,95,67,0.586,--,2012,AL East
+1,Baltimore Orioles,93,69,0.574,2.0,2012,AL East
+2,Tampa Bay Rays,90,72,0.556,5.0,2012,AL East
+3,Toronto Blue Jays,73,89,0.451,22.0,2012,AL East
+4,Boston Red Sox,69,93,0.426,26.0,2012,AL East
+0,Washington Nationals,98,64,0.605,--,2012,NL East
+1,Atlanta Braves,94,68,0.58,4.0,2012,NL East
+2,Philadelphia Phillies,81,81,0.5,17.0,2012,NL East
+3,New York Mets,74,88,0.457,24.0,2012,NL East
+4,Miami Marlins,69,93,0.426,29.0,2012,NL East
+0,Oakland Athletics,94,68,0.58,--,2012,AL West
+1,Texas Rangers,93,69,0.574,1.0,2012,AL West
+2,Los Angeles Angels of Anaheim,89,73,0.549,5.0,2012,AL West
+3,Seattle Mariners,75,87,0.463,19.0,2012,AL West
+0,San Francisco Giants,94,68,0.58,--,2012,NL West
+1,Los Angeles Dodgers,86,76,0.531,8.0,2012,NL West
+2,Arizona Diamondbacks,81,81,0.5,13.0,2012,NL West
+3,San Diego Padres,76,86,0.469,18.0,2012,NL West
+4,Colorado Rockies,64,98,0.395,30.0,2012,NL West
+0,Detroit Tigers,88,74,0.543,--,2012,AL Central
+1,Chicago White Sox,85,77,0.525,3.0,2012,AL Central
+2,Kansas City Royals,72,90,0.444,16.0,2012,AL Central
+3,Cleveland Indians,68,94,0.42,20.0,2012,AL Central
+4,Minnesota Twins,66,96,0.407,22.0,2012,AL Central
+0,Cincinnati Reds,97,65,0.599,--,2012,NL Central
+1,St. Louis Cardinals,88,74,0.543,9.0,2012,NL Central
+2,Milwaukee Brewers,83,79,0.512,14.0,2012,NL Central
+3,Pittsburgh Pirates,79,83,0.488,18.0,2012,NL Central
+4,Chicago Cubs,61,101,0.377,36.0,2012,NL Central
+5,Houston Astros,55,107,0.34,42.0,2012,NL Central
+0,Boston Red Sox,97,65,0.599,--,2013,AL East
+1,Tampa Bay Rays,92,71,0.564,5.5,2013,AL East
+2,Baltimore Orioles,85,77,0.525,12.0,2013,AL East
+3,New York Yankees,85,77,0.525,12.0,2013,AL East
+4,Toronto Blue Jays,74,88,0.457,23.0,2013,AL East
+0,Atlanta Braves,96,66,0.593,--,2013,NL East
+1,Washington Nationals,86,76,0.531,10.0,2013,NL East
+2,New York Mets,74,88,0.457,22.0,2013,NL East
+3,Philadelphia Phillies,73,89,0.451,23.0,2013,NL East
+4,Miami Marlins,62,100,0.383,34.0,2013,NL East
+0,Oakland Athletics,96,66,0.593,--,2013,AL West
+1,Texas Rangers,91,72,0.558,5.5,2013,AL West
+2,Los Angeles Angels of Anaheim,78,84,0.481,18.0,2013,AL West
+3,Seattle Mariners,71,91,0.438,25.0,2013,AL West
+4,Houston Astros,51,111,0.315,45.0,2013,AL West
+0,Los Angeles Dodgers,92,70,0.568,--,2013,NL West
+1,Arizona Diamondbacks,81,81,0.5,11.0,2013,NL West
+2,San Diego Padres,76,86,0.469,16.0,2013,NL West
+3,San Francisco Giants,76,86,0.469,16.0,2013,NL West
+4,Colorado Rockies,74,88,0.457,18.0,2013,NL West
+0,Detroit Tigers,93,69,0.574,--,2013,AL Central
+1,Cleveland Indians,92,70,0.568,1.0,2013,AL Central
+2,Kansas City Royals,86,76,0.531,7.0,2013,AL Central
+3,Minnesota Twins,66,96,0.407,27.0,2013,AL Central
+4,Chicago White Sox,63,99,0.389,30.0,2013,AL Central
+0,St. Louis Cardinals,97,65,0.599,--,2013,NL Central
+1,Pittsburgh Pirates,94,68,0.58,3.0,2013,NL Central
+2,Cincinnati Reds,90,72,0.556,7.0,2013,NL Central
+3,Milwaukee Brewers,74,88,0.457,23.0,2013,NL Central
+4,Chicago Cubs,66,96,0.407,31.0,2013,NL Central
+0,Baltimore Orioles,96,66,0.593,--,2014,AL East
+1,New York Yankees,84,78,0.519,12.0,2014,AL East
+2,Toronto Blue Jays,83,79,0.512,13.0,2014,AL East
+3,Tampa Bay Rays,77,85,0.475,19.0,2014,AL East
+4,Boston Red Sox,71,91,0.438,25.0,2014,AL East
+0,Washington Nationals,96,66,0.593,--,2014,NL East
+1,Atlanta Braves,79,83,0.488,17.0,2014,NL East
+2,New York Mets,79,83,0.488,17.0,2014,NL East
+3,Miami Marlins,77,85,0.475,19.0,2014,NL East
+4,Philadelphia Phillies,73,89,0.451,23.0,2014,NL East
+0,Los Angeles Angels of Anaheim,98,64,0.605,--,2014,AL West
+1,Oakland Athletics,88,74,0.543,10.0,2014,AL West
+2,Seattle Mariners,87,75,0.537,11.0,2014,AL West
+3,Houston Astros,70,92,0.432,28.0,2014,AL West
+4,Texas Rangers,67,95,0.414,31.0,2014,AL West
+0,Los Angeles Dodgers,94,68,0.58,--,2014,NL West
+1,San Francisco Giants,88,74,0.543,6.0,2014,NL West
+2,San Diego Padres,77,85,0.475,17.0,2014,NL West
+3,Colorado Rockies,66,96,0.407,28.0,2014,NL West
+4,Arizona Diamondbacks,64,98,0.395,30.0,2014,NL West
+0,Detroit Tigers,90,72,0.556,--,2014,AL Central
+1,Kansas City Royals,89,73,0.549,1.0,2014,AL Central
+2,Cleveland Indians,85,77,0.525,5.0,2014,AL Central
+3,Chicago White Sox,73,89,0.451,17.0,2014,AL Central
+4,Minnesota Twins,70,92,0.432,20.0,2014,AL Central
+0,St. Louis Cardinals,90,72,0.556,--,2014,NL Central
+1,Pittsburgh Pirates,88,74,0.543,2.0,2014,NL Central
+2,Milwaukee Brewers,82,80,0.506,8.0,2014,NL Central
+3,Cincinnati Reds,76,86,0.469,14.0,2014,NL Central
+4,Chicago Cubs,73,89,0.451,17.0,2014,NL Central
+0,Toronto Blue Jays,93,69,0.574,--,2015,AL East
+1,New York Yankees,87,75,0.537,6.0,2015,AL East
+2,Baltimore Orioles,81,81,0.5,12.0,2015,AL East
+3,Tampa Bay Rays,80,82,0.494,13.0,2015,AL East
+4,Boston Red Sox,78,84,0.481,15.0,2015,AL East
+0,New York Mets,90,72,0.556,--,2015,NL East
+1,Washington Nationals,83,79,0.512,7.0,2015,NL East
+2,Miami Marlins,71,91,0.438,19.0,2015,NL East
+3,Atlanta Braves,67,95,0.414,23.0,2015,NL East
+4,Philadelphia Phillies,63,99,0.389,27.0,2015,NL East
+0,Texas Rangers,88,74,0.543,--,2015,AL West
+1,Houston Astros,86,76,0.531,2.0,2015,AL West
+2,Los Angeles Angels of Anaheim,85,77,0.525,3.0,2015,AL West
+3,Seattle Mariners,76,86,0.469,12.0,2015,AL West
+4,Oakland Athletics,68,94,0.42,20.0,2015,AL West
+0,Los Angeles Dodgers,92,70,0.568,--,2015,NL West
+1,San Francisco Giants,84,78,0.519,8.0,2015,NL West
+2,Arizona Diamondbacks,79,83,0.488,13.0,2015,NL West
+3,San Diego Padres,74,88,0.457,18.0,2015,NL West
+4,Colorado Rockies,68,94,0.42,24.0,2015,NL West
+0,Kansas City Royals,95,67,0.586,--,2015,AL Central
+1,Minnesota Twins,83,79,0.512,12.0,2015,AL Central
+2,Cleveland Indians,81,80,0.503,13.5,2015,AL Central
+3,Chicago White Sox,76,86,0.469,19.0,2015,AL Central
+4,Detroit Tigers,74,87,0.46,20.5,2015,AL Central
+0,St. Louis Cardinals,100,62,0.617,--,2015,NL Central
+1,Pittsburgh Pirates,98,64,0.605,2.0,2015,NL Central
+2,Chicago Cubs,97,65,0.599,3.0,2015,NL Central
+3,Milwaukee Brewers,68,94,0.42,32.0,2015,NL Central
+4,Cincinnati Reds,64,98,0.395,36.0,2015,NL Central
+0,Boston Red Sox,93,69,0.574,--,2016,AL East
+1,Baltimore Orioles,89,73,0.549,4.0,2016,AL East
+2,Toronto Blue Jays,89,73,0.549,4.0,2016,AL East
+3,New York Yankees,84,78,0.519,9.0,2016,AL East
+4,Tampa Bay Rays,68,94,0.42,25.0,2016,AL East
+0,Washington Nationals,95,67,0.586,--,2016,NL East
+1,New York Mets,87,75,0.537,8.0,2016,NL East
+2,Miami Marlins,79,82,0.491,15.5,2016,NL East
+3,Philadelphia Phillies,71,91,0.438,24.0,2016,NL East
+4,Atlanta Braves,68,93,0.422,26.5,2016,NL East
+0,Texas Rangers,95,67,0.586,--,2016,AL West
+1,Seattle Mariners,86,76,0.531,9.0,2016,AL West
+2,Houston Astros,84,78,0.519,11.0,2016,AL West
+3,Los Angeles Angels,74,88,0.457,21.0,2016,AL West
+4,Oakland Athletics,69,93,0.426,26.0,2016,AL West
+0,Los Angeles Dodgers,91,71,0.562,--,2016,NL West
+1,San Francisco Giants,87,75,0.537,4.0,2016,NL West
+2,Colorado Rockies,75,87,0.463,16.0,2016,NL West
+3,Arizona Diamondbacks,69,93,0.426,22.0,2016,NL West
+4,San Diego Padres,68,94,0.42,23.0,2016,NL West
+0,Cleveland Indians,94,67,0.584,--,2016,AL Central
+1,Detroit Tigers,86,75,0.534,8.0,2016,AL Central
+2,Kansas City Royals,81,81,0.5,13.5,2016,AL Central
+3,Chicago White Sox,78,84,0.481,16.5,2016,AL Central
+4,Minnesota Twins,59,103,0.364,35.5,2016,AL Central
+0,Chicago Cubs,103,58,0.64,--,2016,NL Central
+1,St. Louis Cardinals,86,76,0.531,17.5,2016,NL Central
+2,Pittsburgh Pirates,78,83,0.484,25.0,2016,NL Central
+3,Milwaukee Brewers,73,89,0.451,30.5,2016,NL Central
+4,Cincinnati Reds,68,94,0.42,35.5,2016,NL Central
+0,Boston Red Sox,93,69,0.574,--,2017,AL East
+1,New York Yankees,91,71,0.562,2.0,2017,AL East
+2,Tampa Bay Rays,80,82,0.494,13.0,2017,AL East
+3,Toronto Blue Jays,76,86,0.469,17.0,2017,AL East
+4,Baltimore Orioles,75,87,0.463,18.0,2017,AL East
+0,Washington Nationals,97,65,0.599,--,2017,NL East
+1,Miami Marlins,77,85,0.475,20.0,2017,NL East
+2,Atlanta Braves,72,90,0.444,25.0,2017,NL East
+3,New York Mets,70,92,0.432,27.0,2017,NL East
+4,Philadelphia Phillies,66,96,0.407,31.0,2017,NL East
+0,Houston Astros,101,61,0.623,--,2017,AL West
+1,Los Angeles Angels,80,82,0.494,21.0,2017,AL West
+2,Seattle Mariners,78,84,0.481,23.0,2017,AL West
+3,Texas Rangers,78,84,0.481,23.0,2017,AL West
+4,Oakland Athletics,75,87,0.463,26.0,2017,AL West
+0,Los Angeles Dodgers,104,58,0.642,--,2017,NL West
+1,Arizona Diamondbacks,93,69,0.574,11.0,2017,NL West
+2,Colorado Rockies,87,75,0.537,17.0,2017,NL West
+3,San Diego Padres,71,91,0.438,33.0,2017,NL West
+4,San Francisco Giants,64,98,0.395,40.0,2017,NL West
+0,Cleveland Indians,102,60,0.63,--,2017,AL Central
+1,Minnesota Twins,85,77,0.525,17.0,2017,AL Central
+2,Kansas City Royals,80,82,0.494,22.0,2017,AL Central
+3,Chicago White Sox,67,95,0.414,35.0,2017,AL Central
+4,Detroit Tigers,64,98,0.395,38.0,2017,AL Central
+0,Chicago Cubs,92,70,0.568,--,2017,NL Central
+1,Milwaukee Brewers,86,76,0.531,6.0,2017,NL Central
+2,St. Louis Cardinals,83,79,0.512,9.0,2017,NL Central
+3,Pittsburgh Pirates,75,87,0.463,17.0,2017,NL Central
+4,Cincinnati Reds,68,94,0.42,24.0,2017,NL Central
+0,Boston Red Sox,108,54,0.667,--,2018,AL East
+1,New York Yankees,100,62,0.617,8.0,2018,AL East
+2,Tampa Bay Rays,90,72,0.556,18.0,2018,AL East
+3,Toronto Blue Jays,73,89,0.451,35.0,2018,AL East
+4,Baltimore Orioles,47,115,0.29,61.0,2018,AL East
+0,Atlanta Braves,90,72,0.556,--,2018,NL East
+1,Washington Nationals,82,80,0.506,8.0,2018,NL East
+2,Philadelphia Phillies,80,82,0.494,10.0,2018,NL East
+3,New York Mets,77,85,0.475,13.0,2018,NL East
+4,Miami Marlins,63,98,0.391,26.5,2018,NL East
+0,Houston Astros,103,59,0.636,--,2018,AL West
+1,Oakland Athletics,97,65,0.599,6.0,2018,AL West
+2,Seattle Mariners,89,73,0.549,14.0,2018,AL West
+3,Los Angeles Angels,80,82,0.494,23.0,2018,AL West
+4,Texas Rangers,67,95,0.414,36.0,2018,AL West
+0,Los Angeles Dodgers,92,71,0.564,--,2018,NL West
+1,Colorado Rockies,91,72,0.558,1.0,2018,NL West
+2,Arizona Diamondbacks,82,80,0.506,9.5,2018,NL West
+3,San Francisco Giants,73,89,0.451,18.5,2018,NL West
+4,San Diego Padres,66,96,0.407,25.5,2018,NL West
+0,Cleveland Indians,91,71,0.562,--,2018,AL Central
+1,Minnesota Twins,78,84,0.481,13.0,2018,AL Central
+2,Detroit Tigers,64,98,0.395,27.0,2018,AL Central
+3,Chicago White Sox,62,100,0.383,29.0,2018,AL Central
+4,Kansas City Royals,58,104,0.358,33.0,2018,AL Central
+0,Milwaukee Brewers,96,67,0.589,--,2018,NL Central
+1,Chicago Cubs,95,68,0.583,1.0,2018,NL Central
+2,St. Louis Cardinals,88,74,0.543,7.5,2018,NL Central
+3,Pittsburgh Pirates,82,79,0.509,13.0,2018,NL Central
+4,Cincinnati Reds,67,95,0.414,28.5,2018,NL Central
+0,New York Yankees,103,59,0.636,--,2019,AL East
+1,Tampa Bay Rays,96,66,0.593,7.0,2019,AL East
+2,Boston Red Sox,84,78,0.519,19.0,2019,AL East
+3,Toronto Blue Jays,67,95,0.414,36.0,2019,AL East
+4,Baltimore Orioles,54,108,0.333,49.0,2019,AL East
+0,Atlanta Braves,97,65,0.599,--,2019,NL East
+1,Washington Nationals,93,69,0.574,4.0,2019,NL East
+2,New York Mets,86,76,0.531,11.0,2019,NL East
+3,Philadelphia Phillies,81,81,0.5,16.0,2019,NL East
+4,Miami Marlins,57,105,0.352,40.0,2019,NL East
+0,Houston Astros,107,55,0.66,--,2019,AL West
+1,Oakland Athletics,97,65,0.599,10.0,2019,AL West
+2,Texas Rangers,78,84,0.481,29.0,2019,AL West
+3,Los Angeles Angels,72,90,0.444,35.0,2019,AL West
+4,Seattle Mariners,68,94,0.42,39.0,2019,AL West
+0,Los Angeles Dodgers,106,56,0.654,--,2019,NL West
+1,Arizona Diamondbacks,85,77,0.525,21.0,2019,NL West
+2,San Francisco Giants,77,85,0.475,29.0,2019,NL West
+3,Colorado Rockies,71,91,0.438,35.0,2019,NL West
+4,San Diego Padres,70,92,0.432,36.0,2019,NL West
+0,Minnesota Twins,101,61,0.623,--,2019,AL Central
+1,Cleveland Indians,93,69,0.574,8.0,2019,AL Central
+2,Chicago White Sox,72,89,0.447,28.5,2019,AL Central
+3,Kansas City Royals,59,103,0.364,42.0,2019,AL Central
+4,Detroit Tigers,47,114,0.292,53.5,2019,AL Central
+0,St. Louis Cardinals,91,71,0.562,--,2019,NL Central
+1,Milwaukee Brewers,89,73,0.549,2.0,2019,NL Central
+2,Chicago Cubs,84,78,0.519,7.0,2019,NL Central
+3,Cincinnati Reds,75,87,0.463,16.0,2019,NL Central
+4,Pittsburgh Pirates,69,93,0.426,22.0,2019,NL Central
+0,Tampa Bay Rays,40,20,0.667,--,2020,AL East
+1,New York Yankees,33,27,0.55,7.0,2020,AL East
+2,Toronto Blue Jays,32,28,0.533,8.0,2020,AL East
+3,Baltimore Orioles,25,35,0.417,15.0,2020,AL East
+4,Boston Red Sox,24,36,0.4,16.0,2020,AL East
+0,Atlanta Braves,35,25,0.583,--,2020,NL East
+1,Miami Marlins,31,29,0.517,4.0,2020,NL East
+2,Philadelphia Phillies,28,32,0.467,7.0,2020,NL East
+3,New York Mets,26,34,0.433,9.0,2020,NL East
+4,Washington Nationals,26,34,0.433,9.0,2020,NL East
+0,Oakland Athletics,36,24,0.6,--,2020,AL West
+1,Houston Astros,29,31,0.483,7.0,2020,AL West
+2,Seattle Mariners,27,33,0.45,9.0,2020,AL West
+3,Los Angeles Angels,26,34,0.433,10.0,2020,AL West
+4,Texas Rangers,22,38,0.367,14.0,2020,AL West
+0,Los Angeles Dodgers,43,17,0.717,--,2020,NL West
+1,San Diego Padres,37,23,0.617,6.0,2020,NL West
+2,San Francisco Giants,29,31,0.483,14.0,2020,NL West
+3,Colorado Rockies,26,34,0.433,17.0,2020,NL West
+4,Arizona Diamondbacks,25,35,0.417,18.0,2020,NL West
+0,Minnesota Twins,36,24,0.6,--,2020,AL Central
+1,Cleveland Indians,35,25,0.583,1.0,2020,AL Central
+2,Chicago White Sox,35,25,0.583,1.0,2020,AL Central
+3,Kansas City Royals,26,34,0.433,10.0,2020,AL Central
+4,Detroit Tigers,23,35,0.397,12.0,2020,AL Central
+0,Chicago Cubs,34,26,0.567,--,2020,NL Central
+1,St. Louis Cardinals,30,28,0.517,3.0,2020,NL Central
+2,Cincinnati Reds,31,29,0.517,3.0,2020,NL Central
+3,Milwaukee Brewers,29,31,0.483,5.0,2020,NL Central
+4,Pittsburgh Pirates,19,41,0.317,15.0,2020,NL Central
+0,Tampa Bay Rays,100,62,0.617,--,2021,AL East
+1,Boston Red Sox,92,70,0.568,8.0,2021,AL East
+2,New York Yankees,92,70,0.568,8.0,2021,AL East
+3,Toronto Blue Jays,91,71,0.562,9.0,2021,AL East
+4,Baltimore Orioles,52,110,0.321,48.0,2021,AL East
+0,Atlanta Braves,88,73,0.547,--,2021,NL East
+1,Philadelphia Phillies,82,80,0.506,6.5,2021,NL East
+2,New York Mets,77,85,0.475,11.5,2021,NL East
+3,Miami Marlins,67,95,0.414,21.5,2021,NL East
+4,Washington Nationals,65,97,0.401,23.5,2021,NL East
+0,Houston Astros,95,67,0.586,--,2021,AL West
+1,Seattle Mariners,90,72,0.556,5.0,2021,AL West
+2,Oakland Athletics,86,76,0.531,9.0,2021,AL West
+3,Los Angeles Angels,77,85,0.475,18.0,2021,AL West
+4,Texas Rangers,60,102,0.37,35.0,2021,AL West
+0,San Francisco Giants,107,55,0.66,--,2021,NL West
+1,Los Angeles Dodgers,106,56,0.654,1.0,2021,NL West
+2,San Diego Padres,79,83,0.488,28.0,2021,NL West
+3,Colorado Rockies,74,87,0.46,32.5,2021,NL West
+4,Arizona Diamondbacks,52,110,0.321,55.0,2021,NL West
+0,Chicago White Sox,93,69,0.574,--,2021,AL Central
+1,Cleveland Indians,80,82,0.494,13.0,2021,AL Central
+2,Detroit Tigers,77,85,0.475,16.0,2021,AL Central
+3,Kansas City Royals,74,88,0.457,19.0,2021,AL Central
+4,Minnesota Twins,73,89,0.451,20.0,2021,AL Central
+0,Milwaukee Brewers,95,67,0.586,--,2021,NL Central
+1,St. Louis Cardinals,90,72,0.556,5.0,2021,NL Central
+2,Cincinnati Reds,83,79,0.512,12.0,2021,NL Central
+3,Chicago Cubs,71,91,0.438,24.0,2021,NL Central
+4,Pittsburgh Pirates,61,101,0.377,34.0,2021,NL Central
+0,New York Yankees,99,63,0.611,--,2022,AL East
+1,Toronto Blue Jays,92,70,0.568,7.0,2022,AL East
+2,Tampa Bay Rays,86,76,0.531,13.0,2022,AL East
+3,Baltimore Orioles,83,79,0.512,16.0,2022,AL East
+4,Boston Red Sox,78,84,0.481,21.0,2022,AL East
+0,Atlanta Braves,101,61,0.623,--,2022,NL East
+1,New York Mets,101,61,0.623,--,2022,NL East
+2,Philadelphia Phillies,87,75,0.537,14.0,2022,NL East
+3,Miami Marlins,69,93,0.426,32.0,2022,NL East
+4,Washington Nationals,55,107,0.34,46.0,2022,NL East
+0,Houston Astros,106,56,0.654,--,2022,AL West
+1,Seattle Mariners,90,72,0.556,16.0,2022,AL West
+2,Los Angeles Angels,73,89,0.451,33.0,2022,AL West
+3,Texas Rangers,68,94,0.42,38.0,2022,AL West
+4,Oakland Athletics,60,102,0.37,46.0,2022,AL West
+0,Los Angeles Dodgers,111,51,0.685,--,2022,NL West
+1,San Diego Padres,89,73,0.549,22.0,2022,NL West
+2,San Francisco Giants,81,81,0.5,30.0,2022,NL West
+3,Arizona Diamondbacks,74,88,0.457,37.0,2022,NL West
+4,Colorado Rockies,68,94,0.42,43.0,2022,NL West
+0,Cleveland Guardians,92,70,0.568,--,2022,AL Central
+1,Chicago White Sox,81,81,0.5,11.0,2022,AL Central
+2,Minnesota Twins,78,84,0.481,14.0,2022,AL Central
+3,Detroit Tigers,66,96,0.407,26.0,2022,AL Central
+4,Kansas City Royals,65,97,0.401,27.0,2022,AL Central
+0,St. Louis Cardinals,93,69,0.574,--,2022,NL Central
+1,Milwaukee Brewers,86,76,0.531,7.0,2022,NL Central
+2,Chicago Cubs,74,88,0.457,19.0,2022,NL Central
+3,Cincinnati Reds,62,100,0.383,31.0,2022,NL Central
+4,Pittsburgh Pirates,62,100,0.383,31.0,2022,NL Central
